@@ -1,1 +1,1 @@
-# yay, themochemistry notes hahaha
+# Eric's thermochemistry note package!
