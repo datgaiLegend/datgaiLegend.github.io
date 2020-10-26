@@ -1,0 +1,61 @@
+body{
+	margin:0;
+	font-family: 'Questrial', sans-serif;
+	font-size:12px;
+	line-height: 200%;
+}
+.table{
+	margin:auto;
+	table-layout:fixed;
+	width:100%;
+	word-break: break-word;
+	border-spacing: 0 30px;
+}
+.tab{
+	margin-left: 20px;
+}
+img{
+	float:right;
+	max-width: 300px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+header{
+	margin-top:1.5em;
+	margin-bottom:1.5em;
+	text-align:center;
+	font-size:1.5em;
+}
+.sub-header{
+	margin-top:1.25em;
+	margin-bottom:1.25em;
+	text-align:center;
+	font-size:1.5em;
+}
+td{
+	vertical-align: top;
+}
+br {
+   display: block;
+   margin: 10px 0;
+}
+ul{
+	list-style-type: none;
+}
+.hangingindent{
+  padding-left: 30px ;
+  text-indent: -30px ;
+}
+.important{
+	color:rgb(0,219,0);
+	font-style:italic;
+}
+.key{
+	color:rgb(0,235,235);
+}
+.vocab{
+	color:rgb(255, 0, 123);
+}
+.formula{
+	font-weight:bold;
+}
