@@ -1,1 +1,1 @@
-# datgaiLegend.github.io
+# yay, themochemistry notes hahaha
