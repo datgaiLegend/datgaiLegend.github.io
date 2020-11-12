@@ -2,22 +2,21 @@ body{
 	margin:50px;
 	font-family: 'Questrial', sans-serif;
 	font-size:12px;
-	line-height: 230%;
+	line-height: 170%;
 }
 .table{
 	margin:auto;
 	table-layout:fixed;
-	width:100%;
+	width:80%;
 	word-break: break-word;
 	border-spacing: 0 30px;
 }
 .tab{
-	margin-left: 20px;
+	margin-left: 50px;
 }
 img{
 	display:block;
 	margin:auto;
-	max-width:400px;
 	padding-top: 15px;
 	padding-bottom: 15px;
 }
@@ -41,7 +40,10 @@ br {
    margin: 10px 0;
 }
 ul{
-	list-style-type: none;
+	list-style-type: disc;
+}
+li{
+	line-height:250%;
 }
 .hangingindent{
   padding-left: 30px ;
